@@ -1,0 +1,9 @@
+{
+  "framework": "jasmine2",
+  "src_files": [
+    "bower_components/sinonjs/sinon.js",
+    "bower_components/jasmine-sinon/lib/jasmine-sinon.js",
+    "source/*.js",
+    "tests/*.js"
+  ]
+}
